@@ -1,0 +1,175 @@
+Word,# of Letters,Category
+kleiber,7.0,Hall/Building
+storer,6.0,Hall/Building
+hutchison,9.0,Hall/Building
+california,10.0,Hall/Building
+robbins,7.0,Hall/Building
+kerr,4.0,Hall/Building
+wellman,7.0,Hall/Building
+hoagland,8.0,Hall/Building
+wickson,7.0,Hall/Building
+cruess,6.0,Hall/Building
+everson,7.0,Hall/Building
+geidt,5.0,Hall/Building
+hunt,4.0,Hall/Building
+roessler,8.0,Hall/Building
+schalm,6.0,Hall/Building
+young,5.0,Hall/Building
+kemper,6.0,Hall/Building
+bainer,6.0,Hall/Building
+ghausi,6.0,Hall/Building
+cottonwood,10.0,Hall/Building
+madrone,7.0,Hall/Building
+kearney,7.0,Hall/Building
+potter,6.0,Hall/Building
+laben,5.0,Hall/Building
+campbell,8.0,Hall/Building
+king,4.0,Hall/Building
+mrak,4.0,Hall/Building
+arc,3.0,Hall/Building
+silo,4.0,Hall/Building
+scc,3.0,Hall/Building
+sproul,6.0,Hall/Building
+hart,4.0,Hall/Building
+north,5.0,Hall/Building
+dutton,6.0,Hall/Building
+voorhies,8.0,Hall/Building
+wright,6.0,Hall/Building
+hawthorn,8.0,Hall/Building
+tupper,6.0,Hall/Building
+wall,4.0,Hall/Building
+walker,6.0,Hall/Building
+freeborn,8.0,Hall/Building
+memorial union,13.0,Hall/Building
+asmundson,9.0,Hall/Building
+veihmeyer,9.0,Hall/Building
+social sciences and humanities,27.0,Hall/Building
+mathematical sciences,20.0,Hall/Building
+cowell,6.0,Hall/Building
+indio,5.0,Hall/Building
+segundo,7.0,Hall/Building
+tercero,7.0,Hall/Building
+ryerson,7.0,Hall/Building
+malcolm,7.0,Hall/Building
+bixby,5.0,Hall/Building
+briggs,6.0,Hall/Building
+medical sciences,15.0,Hall/Building
+Aerospace Science and Engineering,30.0,major
+African American and African Studies,32.0,major
+Agricultural and Environmental Education,37.0,major
+Agricultural and Environmental Technology,38.0,major
+American Studies,15.0,major
+Animal Biology,13.0,major
+Animal Science,13.0,major
+Animal Science and Management,26.0,major
+Anthropology,12.0,major
+Applied Chemistry,16.0,major
+Applied Mathematics,18.0,major
+Applied Physics,14.0,major
+Art History,10.0,major
+Art Studio,9.0,major
+Asian American Studies,20.0,major
+Atmospheric Science,18.0,major
+Biochemical Engineering,22.0,major
+Biochemistry and Molecular Biology,31.0,major
+Biological Sciences,18.0,major
+Biological Systems Engineering,28.0,major
+Biomedical Engineering,21.0,major
+Biotechnology,13.0,major
+Cell Biology,11.0,major
+Chemical Engineering,19.0,major
+Chemical Physics,15.0,major
+Chemistry,9.0,major
+Chicana/Chicano Studies,22.0,major
+Chinese,7.0,major
+Cinema and Digital Media,21.0,major
+Civil Engineering,16.0,major
+Classical Civilization,21.0,major
+Clinical Nutrition,17.0,major
+Cognitive Science,16.0,major
+Communication,13.0,major
+Community and Regional Development,31.0,major
+Comparative Literature,21.0,major
+Computer Engineering,19.0,major
+Computer Science,15.0,major
+Computer Science and Engineering,29.0,major
+Data Science,11.0,major
+Design,6.0,major
+East Asian Studies,16.0,major
+Ecological Management and Restoration,34.0,major
+Economics,9.0,major
+Electrical Engineering,21.0,major
+English,7.0,major
+Entomology,10.0,major
+Environmental Engineering,24.0,major
+Environmental Horticulture and Urban Forestry,41.0,major
+Environmental Policy Analysis and Planning,38.0,major
+Environmental Science and Management,33.0,major
+Environmental Toxicology,23.0,major
+"Evolution, Ecology and Biodiversity",32.0,major
+Food Science,11.0,major
+French,6.0,major
+"Gender, Sexuality and Women’s Studies",33.0,major
+Genetics and Genomics,19.0,major
+Geology,7.0,major
+German,6.0,major
+Global Disease Biology,20.0,major
+History,7.0,major
+Human Biology,12.0,major
+Human Development,16.0,major
+Hydrology,9.0,major
+International Agricultural Development,36.0,major
+International Relations,22.0,major
+Italian,7.0,major
+Japanese,8.0,major
+Landscape Architecture,21.0,major
+Linguistics,11.0,major
+Managerial Economics,19.0,major
+Marine and Coastal Science — Coastal Environmental Processes or Marine Environmental Chemistry,83.0,major
+Marine and Coastal Science — Oceans and the Earth System,47.0,major
+Marine and Coastal Science—Marine Ecology and Organismal Biology,57.0,major
+Materials Science and Engineering,30.0,major
+Mathematical Analytics and Operations Research,42.0,major
+Mathematical and Scientific Computation,36.0,major
+Mathematics,11.0,major
+Mechanical Engineerin,20.0,major
+Medieval and Early Modern Studies,29.0,major
+Middle East/South Asia Studies,27.0,major
+Molecular and Medical Microbiology,31.0,major
+Music,5.0,major
+Native American Studies,21.0,major
+"Neurobiology, Physiology and Behavior",34.0,major
+Nutrition Science,16.0,major
+Pharmaceutical Chemistry,23.0,major
+Philosophy,10.0,major
+Physics,7.0,major
+Plant Biology,12.0,major
+Plant Sciences,13.0,major
+Political Science,16.0,major
+Political Science — Public Service,30.0,major
+Psychology,10.0,major
+Religious Studies,16.0,major
+Russian,7.0,major
+Science and Technology Studies,27.0,major
+Sociology,9.0,major
+Sociology — Organizational Studies,31.0,major
+Spanish,7.0,major
+Statistics,10.0,major
+Sustainable Agriculture and Food Systems,36.0,major
+Sustainable Environmental Design,30.0,major
+Systems and Synthetic Biology,26.0,major
+Theatre and Dance,15.0,major
+Viticulture and Enology,21.0,major
+"Wildlife, Fish and Conservation Biology",35.0,major
+cow,3.0,animal
+dog,3.0,animal
+cat,3.0,animal
+goat,4.0,animal
+sheep,5.0,animal
+turkey,6.0,animal
+turtle,6.0,animal
+squirrel,8.0,animal
+horse,5.0,animal
+llama,5.0,animal
+russell,7.0,street
+la rue,6.0,street
