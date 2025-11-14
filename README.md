@@ -1,4 +1,4 @@
-## AI-Hangman-Simulation
+## AI-Hangman-Simulation (July - August 2023)
 Built an interactive script in Python for playing a UC Davis-themed version of the popular party game "Hangman", in which players try to guess a wordm letter by letterm with a limited number of incorrect attempts. AI client relies on a simple letter-frequency tracking algorithm for guessing the word. Databse of guessable words contains UC Davis themed terms.
 
 ### Potential Expansion
